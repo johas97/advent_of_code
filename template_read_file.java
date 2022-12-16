@@ -24,7 +24,8 @@ public class dec_X {
 
     while (line != null) {
      
-    
+      line = reader.readLine();
+
     }
     reader.close();
 
